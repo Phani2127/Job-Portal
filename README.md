@@ -7,7 +7,8 @@
 
 ---
 
-## A job portal that caters to both white-collar and blue-collar professionals creates an inclusive employment ecosystem, bridging the gap between various industries and skill levels. This platform enables job seekers from diverse backgrounds—corporate professionals, skilled laborers, and technical workers—to find relevant opportunities based on their expertise. A key feature of this job portal is an AI-driven resume checker, which evaluates resumes against job descriptions and assigns a score between 0 and 1, ensuring alignment with industry requirements and recruiter preferences. This scoring system helps candidates refine their resumes for better job prospects while assisting employers in identifying the most suitable applicants. By integrating smart search filters, skill-based recommendations, and automated resume optimization, the portal streamlines recruitment, enhances hiring efficiency, and improves employability across multiple sectors.
+## 
+A job portal that caters to both white-collar and blue-collar professionals creates an inclusive employment ecosystem, bridging the gap between various industries and skill levels. This platform enables job seekers from diverse backgrounds—corporate professionals, skilled laborers, and technical workers—to find relevant opportunities based on their expertise. A key feature of this job portal is an AI-driven resume checker, which evaluates resumes against job descriptions and assigns a score between 0 and 1, ensuring alignment with industry requirements and recruiter preferences. This scoring system helps candidates refine their resumes for better job prospects while assisting employers in identifying the most suitable applicants. By integrating smart search filters, skill-based recommendations, and automated resume optimization, the portal streamlines recruitment, enhances hiring efficiency, and improves employability across multiple sectors.
 
 ## Features
 
